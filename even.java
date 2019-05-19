@@ -15,7 +15,7 @@ public class even {
 			System.out.println("Number is Odd");
 		}
 		
-		
+		System.out.println("Thank You for Run");
 	}
 
 }
